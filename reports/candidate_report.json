@@ -1,0 +1,163 @@
+{
+    "meta": {
+        "candidate_id": "sagnik-saha-demo-2026",
+        "analysis_id": "analysis-001",
+        "generated_at": "2026-01-10T20:05:00Z",
+        "version": "1.0.0",
+        "engine": "Recruiter Copilot"
+    },
+    "total_score": 7.8,
+    "reasoning_summary": "Candidate scored 7.8/10 (GOOD). Strong full-stack developer with demonstrated expertise in JavaScript, Python, and Java. Active participant in hackathons with multiple first-place wins (HackNC25, DukeAI Hackathon). GitHub shows 17 public repositories with a focus on AI/ML projects and web applications. Top languages align well with modern development needs. Profile README is well-organized with categorized technical skills.",
+    "verified_skills": [
+        {
+            "skill": "JavaScript",
+            "confidence": 0.95,
+            "evidence": "GitHub: 4 repos (26.7%), Pinned projects"
+        },
+        {
+            "skill": "Python",
+            "confidence": 0.95,
+            "evidence": "GitHub: 4 repos (26.7%), ML projects, FastAPI backends"
+        },
+        {
+            "skill": "Java",
+            "confidence": 0.85,
+            "evidence": "GitHub: 2 repos, Game projects (ScrambleTicTacToe, ShutTheBox)"
+        },
+        {
+            "skill": "TypeScript",
+            "confidence": 0.80,
+            "evidence": "GitHub: HackNC25 project, 1 repo"
+        },
+        {
+            "skill": "React",
+            "confidence": 0.75,
+            "evidence": "Mentioned in hackathon projects (RePair, Reflectra)"
+        },
+        {
+            "skill": "FastAPI",
+            "confidence": 0.70,
+            "evidence": "Used in RePair (HackNC 2025) backend"
+        },
+        {
+            "skill": "Machine Learning",
+            "confidence": 0.70,
+            "evidence": "GitHub: Machine-Learning repo, Gemini integrations"
+        },
+        {
+            "skill": "HTML/CSS",
+            "confidence": 0.85,
+            "evidence": "GitHub: 3 HTML repos"
+        }
+    ],
+    "flags": [],
+    "detailed_breakdown": {
+        "technical_match": 8.0,
+        "experience_depth": 7.0,
+        "activity_score": 7.5,
+        "credibility": 10.0
+    },
+    "interpretation": {
+        "rating": "GOOD",
+        "recommendation": "YES",
+        "description": "Well-qualified candidate worth interviewing"
+    },
+    "github_summary": {
+        "username": "SagnikSaha01",
+        "commits_12_months": 106,
+        "public_repos": 17,
+        "top_languages": [
+            "JavaScript",
+            "Python",
+            "HTML"
+        ],
+        "readme_quality": 7.5,
+        "contribution_streak": 15,
+        "followers": 1
+    },
+    "linkedin_summary": {
+        "status": "not_scraped",
+        "message": "LinkedIn scraping skipped for this demo"
+    },
+    "resume_summary": {
+        "name": "Sagnik Saha",
+        "email": null,
+        "total_experience_years": null,
+        "positions_held": null,
+        "skills_detected": 8,
+        "certifications": 0
+    },
+    "ai_analysis": {
+        "technical_match_score": 8,
+        "experience_relevance_score": 7,
+        "hiring_recommendation": "YES",
+        "matching_skills": [
+            "Python",
+            "JavaScript",
+            "React",
+            "FastAPI",
+            "Machine Learning"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong hackathon portfolio with multiple wins",
+            "Full-stack capabilities (frontend + backend)",
+            "Experience with modern AI/ML tools (Gemini, RAG)"
+        ],
+        "concerns": [
+            "Currently a student - limited professional experience"
+        ]
+    },
+    "raw_data": {
+        "github": {
+            "username": "SagnikSaha01",
+            "public_repos": 17,
+            "top_languages": [
+                {
+                    "name": "JavaScript",
+                    "repo_count": 4,
+                    "percentage": 26.7
+                },
+                {
+                    "name": "Python",
+                    "repo_count": 4,
+                    "percentage": 26.7
+                },
+                {
+                    "name": "HTML",
+                    "repo_count": 3,
+                    "percentage": 20.0
+                }
+            ],
+            "pinned_repos": [
+                {
+                    "name": "SagnikSaha01",
+                    "description": "Profile README"
+                },
+                {
+                    "name": "HackNC25",
+                    "language": "TypeScript",
+                    "description": "AI Home Assistant, 1st Place"
+                },
+                {
+                    "name": "ScrambleTicTacToe",
+                    "language": "Java"
+                },
+                {
+                    "name": "ShutTheBox",
+                    "language": "Java"
+                },
+                {
+                    "name": "Discord-Bot",
+                    "language": "Python"
+                },
+                {
+                    "name": "Machine-Learning",
+                    "language": "Python"
+                }
+            ]
+        },
+        "linkedin": null,
+        "resume": null
+    }
+}

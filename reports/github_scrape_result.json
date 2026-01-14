@@ -1,0 +1,94 @@
+{
+  "username": "SagnikSaha01",
+  "scraped_at": "2026-01-10T20:02:35.802777",
+  "name": "",
+  "bio": "",
+  "location": null,
+  "company": null,
+  "public_repos": 17,
+  "followers": 1,
+  "following": 1,
+  "commits_12_months": 0,
+  "contribution_streak": 0,
+  "top_languages": [
+    {
+      "name": "JavaScript",
+      "repo_count": 4,
+      "percentage": 26.7
+    },
+    {
+      "name": "Python",
+      "repo_count": 4,
+      "percentage": 26.7
+    },
+    {
+      "name": "HTML",
+      "repo_count": 3,
+      "percentage": 20.0
+    }
+  ],
+  "all_languages": [
+    {
+      "name": "JavaScript",
+      "repo_count": 4,
+      "percentage": 26.7
+    },
+    {
+      "name": "Python",
+      "repo_count": 4,
+      "percentage": 26.7
+    },
+    {
+      "name": "HTML",
+      "repo_count": 3,
+      "percentage": 20.0
+    },
+    {
+      "name": "Java",
+      "repo_count": 2,
+      "percentage": 13.3
+    },
+    {
+      "name": "Lua",
+      "repo_count": 1,
+      "percentage": 6.7
+    },
+    {
+      "name": "TypeScript",
+      "repo_count": 1,
+      "percentage": 6.7
+    }
+  ],
+  "readme_complexity_score": 4.0,
+  "pinned_repos": [
+    {
+      "name": "SagnikSaha01",
+      "description": ""
+    },
+    {
+      "name": "HackNC25",
+      "description": "HackNC25 project",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ScrambleTicTacToe",
+      "description": "",
+      "language": "Java"
+    },
+    {
+      "name": "ShutTheBox",
+      "description": "",
+      "language": "Java"
+    },
+    {
+      "name": "Discord-Bot",
+      "description": "",
+      "language": "Python"
+    },
+    {
+      "name": "Machine-Learning",
+      "description": "",
+      "language": "Python"
+    }
+  ]
+}
